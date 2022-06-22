@@ -1,4 +1,4 @@
-# TestApfWithTsNode
+# TestApfWithTsNode (APF - Angular Package Format)
 
 Run the following code:
 
