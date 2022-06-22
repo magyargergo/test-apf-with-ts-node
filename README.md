@@ -4,6 +4,7 @@ Run the following code:
 
 ```bash
 yarn prepare:app
+
 $ TS_NODE_PROJECT='scripts/tsconfig.json' ./node_modules/.bin/ts-node --experimental-specifier-resolution=node scripts/index.ts
 test-apf-with-ts-node/node_modules/@ionic/storage/bundles/ionic-storage.umd.js:5
 }(this, (function (exports, core, common, localforage, CordovaSQLiteDriver) { 'use strict';
